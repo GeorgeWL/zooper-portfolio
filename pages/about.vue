@@ -3,21 +3,16 @@
   <AppMain>
     <Text>If you want to contact me, email me at <a href="mailto:hello@georgewl.dev">hello@georgewl.dev</a> or click on
       to my social media links and say hello.</Text>
-    <br /> <br />
     <AppHeadersHeader1>Education</AppHeadersHeader1>
-
     <AppHeadersHeader2>
       BSc Web Systems Design
     </AppHeadersHeader2>
+    <AppHeadersHeader3>Sheffield Hallam University (Sheffield, South Yorkshire, UK)</AppHeadersHeader3>
     <small>
-      <AppAnchor href="https://web.archive.org/web/20140703212704/http://www.shu.ac.uk/prospectus/course/487/">Course
-        Information
-        (archived)
+      <AppAnchor href="https://web.archive.org/web/20140703212704/http://www.shu.ac.uk/prospectus/course/487/">
+        Course Information
       </AppAnchor>
     </small>
-    <br />
-    <br />
-    <AppHeadersHeader3>Sheffield Hallam University (Sheffield, South Yorkshire, UK)</AppHeadersHeader3>
     <br />
     <Text class="py-3">This is one of the few specialist courses in the UK focused on Web Technologies. Key Areas
       of
@@ -41,14 +36,12 @@
       <li>Mobile Application Development (Final year elective)</li>
       <li>Cloud Databases And Cloud Computing (Final year elective)</li>
     </AppUnorderListSpaced>
-    <br />
-
     <AppHeadersHeader2>BTEC National Diploma Level 3</AppHeadersHeader2>
     <AppHeadersHeader3>Mid-Cheshire College (Hartford, Cheshire, UK)</AppHeadersHeader3>
     <Text>This course is a strong foundation to build onto with University education or Apprenticeships. Course
       included
       the following modules:</Text>
-    <ul>
+    <AppUnorderListSpaced>
       <li>Communication and Employability Skills for IT</li>
       <li>Computer Systems</li>
       <li>Information Systems</li>
@@ -62,8 +55,7 @@
       <li>Computer Networks</li>
       <li>Website Production</li>
       <li>Event Driven Programming</li>
-    </ul>
-    <br />
+    </AppUnorderListSpaced>
     <AppHeadersHeader2>GCSEs A to C</AppHeadersHeader2>
     <AppHeadersHeader3>Verdin High School</AppHeadersHeader3>
     <Text>All relevant GCSEs to A-C levels.</Text>
