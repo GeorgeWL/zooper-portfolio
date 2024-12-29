@@ -1,5 +1,5 @@
 <template>
-    <h2 class="uppercase text-xs font-semibold text-gray-400 mb-6">
+    <h2 class="uppercase text-sm font-semibold text-gray-400 my-6">
         <slot />
     </h2>
 </template>
