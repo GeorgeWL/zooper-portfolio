@@ -7,19 +7,39 @@
       Hello!
     </AppHeadersHeader1>
     <Text>
-      I'm Fayaz, I work as a software, product engineer and designer from
-      Bengaluru, India. I specialize in building web applications and sites
-      using Javascript, React, Vue &amp; Node. I've procrastinated building this
-      website for years but finally it's here, I've carved out my own little
-      nook on the internet to share my silly experiments, nifty projects, and
-      thoughts (mostly about tech and design).
+      I'm George - currently working as a Software Developer for <AppAnchor href="//autodesk.co.uk">Autodesk</AppAnchor>
+      , in the <AppAnchor href='//construction.autodesk.com/'>Construction cloud</AppAnchor>
+      product team.
+
+      I'm based in <AppAnchor href="https://maps.app.goo.gl/pZBKSP3EMGRqC7cp6">North West Manchester</AppAnchor>, a
+      region of Greater Manchester in
+      the United Kingdom.
     </Text>
+    <AppHeadersHeader2>
+      My Interests
+    </AppHeadersHeader2>
     <Text>
-      By day, I'm a Fullstack Developer at
-      <AppAnchor href="https://headshotpro.com" target="_blank">Headshotpro</AppAnchor>, and
-      by night (and weekends), I'm busy tinkering with some random tool or app
-      that I am building.
+      I'm interested in Web Apps, UX, and Programming. I'm a frontend developer with a passion for accesibility and user
+      experience.
+      I specialize in building web applications and sites using Javascript, React, Vue & Node.
+      <br />
+      <br />
+      I also do quite a few hobbies in my spare time;
     </Text>
+    <AppUnorderListSpaced>
+      <AppUnorderListSpaced>
+        <li>🎮 pc gaming</li>
+        <li>🎹 piano</li>
+        <li>🚲 biking and inline skating</li>
+        <li>⚔ tabletop RPGs</li>
+        <li>🧗‍♂️ bouldering</li>
+      </AppUnorderListSpaced>
+      <li>I'm currently learning the UI frameworks of <AppAnchor href="https://svelte.dev">Svelte</AppAnchor> and
+        <AppAnchor href="https://vuejs.org">VueJS</AppAnchor> in my spare time
+      </li>
+    </AppUnorderListSpaced>
+    <br />
+    <Text>🚫 I am <strong>NOT</strong> Looking for roles, so <strong>don't</strong> send me job adverts.🚫</Text>
   </div>
 </template>
 
