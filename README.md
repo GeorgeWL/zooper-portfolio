@@ -1,6 +1,9 @@
+
 # Zooper
 
 This is a fork of [Zooper](https://github.com/fayazara/zooper) portfolio template, customised for my usage on <https://georgewl.dev>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2fd06b94-e32a-41f4-b875-5cdc3153904e/deploy-status)](https://app.netlify.com/sites/aesthetic-marzipan-539d25/deploys)
 
 ## Features
 
