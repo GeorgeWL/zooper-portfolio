@@ -43,12 +43,10 @@ const items = [
     path: "/projects",
     icon: "solar:folder-with-files-outline",
   },
-  // may not use at the moment - TBD
-  // { name: "Lab", path: "/lab", icon: "heroicons:beaker" },
-  {
-    name: "Bookmarks",
-    path: "/bookmarks",
-    icon: "solar:bookmark-linear",
-  },
+  { name: "Experiments", path: "/experiments", icon: "heroicons:beaker" },
 ];
 </script>
+
+<style scoped>
+  
+</style>
