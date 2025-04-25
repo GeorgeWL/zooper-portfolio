@@ -1,8 +1,8 @@
 <template>
   <main class="min-h-screen">
-    <AppHeader class="mb-12" title="Lab" :description="description" />
+    <AppHeader class="mb-12" title="Experiments" :description="description" />
     <div class="space-y-24">
-      <ContentList path="/lab" v-slot="{ list }">
+      <ContentList path="/experiments" v-slot="{ list }">
         <ContentQuery
           v-for="item in list"
           :key="item._path"
@@ -22,7 +22,7 @@
 <script setup>
 const description = "Some random experiments with UI I do in my free time.";
 useSeoMeta({
-  title: "Lab | GeorgeWL",
+  title: "Experiments | GeorgeWL",
   description,
 });
 </script>
