@@ -5,8 +5,8 @@
   <UContainer>
     <NuxtPage />
   </UContainer>
-  <div class="h-32"></div>
   <AppFooter />
+
 </template>
 
 <style>
@@ -23,5 +23,9 @@
 .page-enter-from {
   opacity: 0;
   transform: translateY(5px);
+}
+
+.h-32 {
+  height: 6rem;
 }
 </style>

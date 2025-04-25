@@ -1,7 +1,8 @@
 <template>
   <AppHeader>About Me</AppHeader>
-  <AppMain>
-    <Text>If you want to contact me, email me at <a href="mailto:hello@georgewl.dev">hello@georgewl.dev</a> or click on
+  <main class="min-h-screen">
+    <Text>If you want to contact me, email me at <AppAnchor href="mailto:hello@georgewl.dev">hello@georgewl.dev
+      </AppAnchor> or click on
       to my social media links and say hello.</Text>
     <AppHeadersHeader1>Education</AppHeadersHeader1>
     <AppHeadersHeader2>
@@ -59,11 +60,11 @@
     <AppHeadersHeader2>GCSEs A to C</AppHeadersHeader2>
     <AppHeadersHeader3>Verdin High School</AppHeadersHeader3>
     <Text>All relevant GCSEs to A-C levels.</Text>
-  </AppMain>
+  </main>
 </template>
 
 <script>
-import { AppAnchor, AppHeader, AppHeadersHeader1, AppHeadersHeader2, AppHeadersHeader3, AppMain, AppUnorderListSpaced } from '#components';
+import { AppAnchor, AppHeader, AppHeadersHeader1, AppHeadersHeader2, AppHeadersHeader3, AppUnorderListSpaced } from '#components';
 
 const description = "Some more about my life and education.";
 useSeoMeta({

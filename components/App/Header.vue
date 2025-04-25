@@ -23,3 +23,9 @@ defineProps({
   },
 });
 </script>
+
+<style scoped>
+  h1:first-of-type{
+    margin-top: 0;
+  }
+</style>
